@@ -11,8 +11,12 @@ public class Practicasii {
         System.out.println("PUES AQUI ESTAMOS COMPAÑERO");
         System.out.println("NO NOS PODEMOS QUEJAR");
         
+
         
         System.out.println("A TRABAJAR");
+
+        System.out.println("YO SIGO POR AQUI HACIENDO UN PAR DE CAMBIOS AVER QUE PASA");
+
     }
     
 }
